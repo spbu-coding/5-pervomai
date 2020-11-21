@@ -18,5 +18,6 @@ void input(){
 
 int main() {
     input();
+    printf("Work is correct");
     return 0;
 }
